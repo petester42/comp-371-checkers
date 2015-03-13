@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl Wood_Bamboo_Medium
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.500000 0.300000
+Ks 0.330000 0.330000 0.330000
+map_Kd Wood_Bamboo_Medium.tga
+
